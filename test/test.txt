@@ -1,0 +1,4 @@
+kkkkk 
+^C
+ssh pkteam@mydb.iptime.org -p 221 
+exit
